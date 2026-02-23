@@ -1,4 +1,4 @@
-# 🧠 ToodMind
+# 🧠 Rooni Labs
 **Where Data Becomes Thought.**
 
 We are a modern AI and data innovation team building the next generation of **intelligent systems** — combining **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Data Science** to turn raw data into real understanding.
