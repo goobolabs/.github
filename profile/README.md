@@ -38,9 +38,9 @@ Goobo Labs operates at the intersection of:
 
 ### Connect With Us
 
-- [https://goobolabs.so](https://goobolabs.so)
-- [hello@goobolabs.so](mailto:hello@goobolabs.so)
-📍Somalia
+🌐 [toodmind.com](https://www.toodmind.com)  
+✉️ hello@toodmind.com  
+📍 Somalia  
 
 ---
 
