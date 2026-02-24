@@ -1,27 +1,47 @@
-# 🧠 Goobo Labs
+# Goobo Labs
+
 **Where Technology Gets Better.**
 
-We are a modern AI and data innovation team building the next generation of **intelligent systems** — combining **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Data Science** to turn raw data into real understanding.
+Goobo Labs is a modern technology company focused on building secure, intelligent, and scalable digital systems.
+
+We combine Artificial Intelligence, Software Engineering, Cybersecurity, Blockchain, and Data Systems to create real-world solutions that help businesses grow, automate, and operate smarter.
 
 Our mission is simple:
-> **To teach data how to think.**
+
+> **To build technology that works, scales, and secures the future.**
 
 ---
 
-### 🔬 What We Do
-- 🤖 Build and train machine learning models.  
-- 🧠 Design deep learning architectures inspired by neurons.  
-- 📊 Transform raw data into meaningful insights.  
-- 🧩 Share open-source tools, datasets, and research.
+### What We Do
+
+* Develop AI-powered systems and automation tools
+* Build custom web, mobile, and enterprise software
+* Design secure blockchain-based solutions
+* Strengthen digital infrastructure through cybersecurity
+* Turn data into actionable business intelligence
 
 ---
 
-### 🌍 Connect With Us
-🌐 [toodmind.com](https://www.toodmind.com)  
-✉️ hello@toodmind.com  
-📍 Somalia  
-[LinkedIn](https://linkedin.com/company/toodmind) • [X (Twitter)](https://x.com/toodmind) • [YouTube](https://youtube.com/@toodmind)
+### Our Focus
+
+We do not just build products.
+We validate ideas, solve real problems, and design systems that scale.
+
+Goobo Labs operates at the intersection of:
+
+* Intelligence
+* Security
+* Innovation
+* Practical execution
 
 ---
 
-> *Goobo Labs — Where Technology Gets Better.*
+### Connect With Us
+
+- [https://goobolabs.so](https://goobolabs.so)
+- [hello@goobolabs.so](mailto:hello@goobolabs.so)
+📍Somalia
+
+---
+
+> Goobo Labs — Where Technology Gets Better.
