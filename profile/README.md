@@ -1,4 +1,4 @@
-# 🧠 Rooni Labs
+# 🧠 Goobo Labs
 **Where Technology Gets Better.**
 
 We are a modern AI and data innovation team building the next generation of **intelligent systems** — combining **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Data Science** to turn raw data into real understanding.
@@ -24,4 +24,4 @@ Our mission is simple:
 
 ---
 
-> *ToodMind — Where Data Becomes Thought.*
+> *Goobo Labs — Where Technology Gets Better.*
