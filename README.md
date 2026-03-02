@@ -1,42 +1,47 @@
-# 🧠 ToodMind
-**Where Data Becomes Thought.**
+# Goobo Labs
 
-We build intelligent systems that learn, adapt, and think — combining **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Data Science** to transform raw data into meaningful intelligence.
+**Where Technology Gets Better.**
 
-> “We don’t just process data — we teach it to think.”
+Goobo Labs is a modern technology company focused on building secure, intelligent, and scalable digital systems.
 
----
+We combine Artificial Intelligence, Software Engineering, Cybersecurity, Blockchain, and Data Systems to create real-world solutions that help businesses grow, automate, and operate smarter.
 
-### 🔬 Our Focus
-- 🤖 **AI & Machine Learning** — Building smart, adaptive models that evolve with data.  
-- 🧠 **Deep Learning** — Designing neural networks inspired by the human brain.  
-- 📊 **Data Science** — Extracting insights and patterns that power real decisions.  
-- 🧩 **Open Source Innovation** — Sharing tools, code, and knowledge to accelerate progress.
+Our mission is simple:
+
+> **To build technology that works, scales, and secures the future.**
 
 ---
 
-### 🚀 Our Vision
-We believe that intelligence should be **accessible, explainable, and empowering**.  
-Our goal is to make AI **understand the world** as humans do — through experience, learning, and reason.
+### What We Do
 
-ToodMind stands at the edge where **data becomes thought**, and **thought becomes creation**.
-
----
-
-### 🌍 Connect With Us
-🌐 **Website:** [toodmind.com](https://www.toodmind.com)  
-✉️ **Email:** hello@toodmind.com  
-📍 **Location:** Somalia  
-💬 **Socials:** [LinkedIn](https://linkedin.com/company/toodmind) • [X](https://x.com/toodmind) • [YouTube](https://youtube.com/@toodmind)
+* Develop AI-powered systems and automation tools
+* Build custom web, mobile, and enterprise software
+* Design secure blockchain-based solutions
+* Strengthen digital infrastructure through cybersecurity
+* Turn data into actionable business intelligence
 
 ---
 
-### 💡 Philosophy
-ToodMind is built on one simple belief:
-> **Intelligence is not created — it’s learned.**
+### Our Focus
 
-We’re shaping tools, models, and communities that empower data to **think, evolve, and speak**.
+We do not just build products.
+We validate ideas, solve real problems, and design systems that scale.
+
+Goobo Labs operates at the intersection of:
+
+* Intelligence
+* Security
+* Innovation
+* Practical execution
 
 ---
 
-🚀 **ToodMind — Where Data Becomes Thought.**
+### Connect With Us
+
+🌐 [toodmind.com](https://www.toodmind.com)  
+✉️ hello@toodmind.com  
+📍 Somalia  
+
+---
+
+> Goobo Labs — Where Technology Gets Better.
