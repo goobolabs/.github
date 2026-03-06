@@ -1,6 +1,6 @@
 # Goobo Labs
 
-**Where Technology Gets Better.**
+**Engineering Reliable Digital Infrastructure.**
 
 Goobo Labs is a modern technology company focused on building secure, intelligent, and scalable digital systems.
 
@@ -44,4 +44,4 @@ Goobo Labs operates at the intersection of:
 
 ---
 
-> Goobo Labs — Where Technology Gets Better.
+> Goobo Labs — Engineering Reliable Digital Infrastructure.
