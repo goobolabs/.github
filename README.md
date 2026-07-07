@@ -1,47 +1,48 @@
 # Goobo Labs
 
-**Engineering Reliable Digital Infrastructure.**
+**Building the Foundations of Somali AI.**
 
-Goobo Labs is a modern technology company focused on building secure, intelligent, and scalable digital systems.
+Goobo Labs is an open research lab dedicated to advancing Artificial Intelligence for the Somali language.
 
-We combine Artificial Intelligence, Software Engineering, Cybersecurity, Blockchain, and Data Systems to create real-world solutions that help businesses grow, automate, and operate smarter.
+We build open datasets, language technologies, AI models, and developer tools that enable researchers, developers, and organizations to build the next generation of Somali AI.
 
 Our mission is simple:
 
-> **To build technology that works, scales, and secures the future.**
+> **To build the open infrastructure that powers Somali AI.**
 
 ---
 
 ### What We Do
 
-* Develop AI-powered systems and automation tools
-* Build custom web, mobile, and enterprise software
-* Design secure blockchain-based solutions
-* Strengthen digital infrastructure through cybersecurity
-* Turn data into actionable business intelligence
+* Build open datasets and language resources
+* Advance Somali Natural Language Processing (NLP)
+* Develop speech technologies (STT & TTS)
+* Create AI models and developer tools
+* Publish open-source research and educational resources
 
 ---
 
 ### Our Focus
 
-We do not just build products.
-We validate ideas, solve real problems, and design systems that scale.
+We do not just build AI models.
+
+We build the foundation that makes Somali AI possible by creating high-quality datasets, open tools, and research that anyone can build upon.
 
 Goobo Labs operates at the intersection of:
 
-* Intelligence
-* Security
-* Innovation
-* Practical execution
+* Artificial Intelligence
+* Open Research
+* Language Technology
+* Open Source
 
 ---
 
 ### Connect With Us
 
-🌐 [toodmind.com](https://www.toodmind.com)  
-✉️ hello@toodmind.com  
-📍 Somalia  
+🌐 https://www.goobolabs.so  
+✉️ info@goobolabs.so  
+📍 Mogadishu, Somalia
 
 ---
 
-> Goobo Labs — Engineering Reliable Digital Infrastructure.
+> Goobo Labs — Building the Foundations of Somali AI.
